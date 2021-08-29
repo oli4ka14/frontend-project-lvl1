@@ -1,4 +1,4 @@
-import as util from 'utilities-js';
+import utilities from 'utilities-js';
 
 const phrase = 'Answer "yes" if the number is even, otherwise answer "no".';
 const gameQuestion = () => {
