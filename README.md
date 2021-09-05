@@ -4,3 +4,4 @@
 [![Node.js CI](https://github.com/oli4ka14/frontend-project-lvl1/actions/workflows/node.js.yml/badge.svg)](https://github.com/oli4ka14/frontend-project-lvl1/actions/workflows/node.js.yml)
 [![asciicast](https://asciinema.org/a/XUwyBXY7uUbd8sn6pNBrZuY5y.svg)](https://asciinema.org/a/XUwyBXY7uUbd8sn6pNBrZuY5y)
 [![asciicast](https://asciinema.org/a/cXCQVWUwHO8iq3QSWMUDOl5sd.svg)](https://asciinema.org/a/cXCQVWUwHO8iq3QSWMUDOl5sd)
+[![asciicast](https://asciinema.org/a/xog1r3j9PPNTm2wuRdMPSnSzm.svg)](https://asciinema.org/a/xog1r3j9PPNTm2wuRdMPSnSzm)
