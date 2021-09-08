@@ -11,3 +11,6 @@
 
 :yellow_heart: *At third video you can see the game that shows common divisor of two random numbers*
 [![asciicast](https://asciinema.org/a/xog1r3j9PPNTm2wuRdMPSnSzm.svg)](https://asciinema.org/a/xog1r3j9PPNTm2wuRdMPSnSzm)
+
+:yellow_heart: *At fourth video you can see the game that shows you progression*
+[![asciicast](https://asciinema.org/a/HL1VhNBR61mgtsvoReSbqA9tK.svg)](https://asciinema.org/a/HL1VhNBR61mgtsvoReSbqA9tK)
