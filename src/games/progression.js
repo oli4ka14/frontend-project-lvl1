@@ -28,12 +28,12 @@ const generateQuestionAndAnswer = () => {
         array.push(result[i]);
       }
     }
-    return array;
+    return array.join(' ');
   };
   const correctAnswer = String(sentHiddenSymbol(generate));
   const progressionQuestion = sentSymbol(generate);
   const question = `Question: ${progressionQuestion}\nYour answer: `;
-  return [question.toString(), correctAnswer];
+  return [question, correctAnswer];
 };
 export default () => {
   game(generateQuestionAndAnswer, phrase);
