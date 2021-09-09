@@ -14,3 +14,6 @@
 
 :yellow_heart: *At fourth video you can see the game that shows you progression*
 [![asciicast](https://asciinema.org/a/HL1VhNBR61mgtsvoReSbqA9tK.svg)](https://asciinema.org/a/HL1VhNBR61mgtsvoReSbqA9tK)
+
+:yellow_heart: *At fifth video you can see the game that shows you a prime number*
+[![asciicast](https://asciinema.org/a/nsBd80v5jHadIvMsPguPYfqKs.svg)](https://asciinema.org/a/nsBd80v5jHadIvMsPguPYfqKs)
