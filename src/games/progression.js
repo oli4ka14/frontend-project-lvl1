@@ -13,13 +13,6 @@ const makeArray = () => {
   }
   return result;
 };
-const sentIntoString = (array) => {
-  let result = '';
-  for (let i = 0; i < array.length; i += 1) {
-    result = `${result} ${array[i]}`;
-  }
-  return result;
-};
 
 const generateQuestionAndAnswer = () => {
   const generate = makeArray();
@@ -38,9 +31,9 @@ const generateQuestionAndAnswer = () => {
     return array;
   };
   const correctAnswer = String(sentHiddenSymbol(generate));
-  const progressionQuestion = sentIntoString(sentSymbol(generate));
+  const progressionQuestion = sentSymbol(generate);
   const question = `Question: ${progressionQuestion}\nYour answer: `;
-  return [question, correctAnswer];
+  return [question.toString(), correctAnswer];
 };
 export default () => {
   game(generateQuestionAndAnswer, phrase);
