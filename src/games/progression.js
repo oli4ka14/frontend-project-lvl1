@@ -28,11 +28,12 @@ const generateQuestionAndAnswer = () => {
         array.push(result[i]);
       }
     }
-    return array.join(' ');
+    return array;
   };
   const correctAnswer = String(sentHiddenSymbol(generate));
   const progressionQuestion = sentSymbol(generate);
-  const question = `Question: ${progressionQuestion}\nYour answer: `;
+  const progressionQuestionInArr = progressionQuestion.join(' ');
+  const question = `Question: ${progressionQuestionInArr}\nYour answer: `;
   return [question, correctAnswer];
 };
 export default () => {
